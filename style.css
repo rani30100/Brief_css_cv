@@ -1,0 +1,182 @@
+/* body*/
+body{
+    width: 1600px;
+    height: 200px;
+    margin-left: 60px;
+    margin-top: 0;
+    padding-top: 0;
+    
+    }
+    
+    /* header */
+    .header{
+
+    margin-top: 30px;
+    border-bottom: 2px solid;
+    width: 1600px;
+    height: 250px;
+    }
+    
+    /* header */
+    .header__image{
+    position: absolute;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 30px;
+    width: 130px;
+    }
+    
+    /* header conatact */
+    .header__contact{
+    padding-left: 140px;
+    
+    }
+    
+    /* header */
+    .header__list{
+    display: flex;
+    }
+    /* header */
+    .header__text{
+    padding-left: 200px;
+    padding-bottom: 20px;
+    }
+    
+    /* header */
+    .header__title{
+    padding-top: 20px;
+    padding-left: 200px;
+    }
+    
+    /* header */
+    .header__name{
+    display: flex
+    }
+    
+    /* header */
+    .header__job{
+    display: flex;
+    
+    }
+    
+    /* header */
+    .header__list__item1{
+    display: flex;
+    padding-right: 5em;
+    text-align: left;
+    }
+    /* header */
+    .header__list__item2{
+    display: flex;
+    padding-right: 5em;
+    }
+    
+    
+    /* block de droite */
+    .block__right{
+    display: block;
+  
+    padding-left: 200px;
+    }
+    
+    /* bloc de gauche */
+    .block__left{
+   align-items: center;
+    margin-top: 10px;
+    padding-left: 20px;
+    position: absolute;
+    }
+    
+    /* bloc education */
+    .study__education{
+    position: absolute;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 30px;
+    
+    }
+    
+    /* bloc skill */
+    .skill{
+        display: flex;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 30px;
+
+    
+    }
+    
+    .list__skill{
+    display: block;
+    padding-left: 200px;
+    
+    ;
+    
+    }
+    
+    /* liste skill */
+    .skill__part1{
+    display: flex;
+    text-align: left;
+    padding-right: 2em;
+ 
+    
+    }
+    
+    /* liste skill */
+    .skill__part2{
+    display: flex;
+    padding-right: 3em;
+    width: 20px;
+    }
+    
+    /* liste skill */
+    .skill__part3{
+    display: flex;
+    padding-right: 2em;
+    }
+
+.block__skill{
+
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 30px;
+
+}
+
+    
+    /* footer contact */
+    .block__list{
+    display: flex;
+    padding: 0px;
+    }
+    
+    /* footer contact */
+    .block__list__contact{
+    display: flex;
+    padding-right: 2em;
+    
+    }
+    
+    /* footer contact */
+    .block__list__contact2{
+    display: flex;
+    padding-right: 2em;
+    
+    }
+    
+    .skill{
+        display: flex;
+    }
+
+    .interest{
+        display: flex;
+        
+    }
+
+   .emoji{
+    width: 50px;
+    padding-left: 300px;
+   }
+    
+   
